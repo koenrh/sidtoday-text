@@ -1,0 +1,30 @@
+certificate revocation. However, prior discussions recognized this problem and the subsequent
+impracticality of multiple revocations throughout the agency. It was consequently decided that
+existing, valid PKI certificates which would encounter this condition would not be revoked, but
+rather allowed to continue existing until their normal expiration date. The requirement for full
+identity validation would then occur at renewal time, ultimately bringing everything in line and
+eliminating the need for numerous immediate reapplications in the meantime.
+
+(U//FOUO) For further information, see an announcement in What‘s New in SEARCHLIGHT.
+
+Contributors to article:
+
+CRD Communications
+
+, Concerto Representative
+
+, Searchlight Representative
+
+ 
+ 
+  
+
+"(U//FOU0) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of 50121 (Di. sid commas)?
+
+ 
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
+

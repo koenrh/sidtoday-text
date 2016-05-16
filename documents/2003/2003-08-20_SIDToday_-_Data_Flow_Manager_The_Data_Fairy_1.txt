@@ -1,0 +1,100 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+ 
+
+(U//FOU0) Data Flow Manager: The Data Fairy?
+
+FROM: — and
+Unknown
+Run Date: 08/20/2003
+
+ 
+
+§\
+
+(U//FOUO) Data flow in, data flow out — somehow it reaches my
+
+desk. How does it get to my desk every day? Is there really a data
+fairy — the urban legend of the data flow career field? YES!!! What
+data flow managers do is ofttimes perceived as magic by creating
+
+\\\\
+3\\\§ SERIES:
+(U) A Day in the Life of...
+
+order out of chaos and untangling the mysteries and complexities 1.
+of delivering SIGINT to the customers. There are many data flow
+
+managers in SID. We reside in many areas, but CSRC (the 2.
+Collection Strategies and Requirements Center) has the bulk of this 3.
+
+critical career field. Ourjob entails so many aspects, its hard to
+mention them all, but these data flow managers perform miracles
+
+ 
+
+ 
+   
+
+and feats of magic every day. 4. Data Flow Manager:
+' 7
+
+(C) The SID data flow manager (DFM) is someone who is well 5 The Datifiigi Ar-
+
+versed in many areas and is customer—oriented to ensure that the ' View ' '
+
+customer/analyst has collected, processed and selected data 6. ‘
+
+available for analysis and reporting, whatever kind of analysis is
+
+required, regardless of data type. When do you contact a DFM? 7
+
+What role does the DFM play in SIGINT delivery? The DFM is '
+
+involved daily with: 8.
+
+0 Ensuring that targeted/selected intercept is delivered to
+you, 24/7;
+
+0 Monitoring data flows to direct intercept appropriately;
+
+0 Establishing and testing new data paths, formats and
+processing capabilities;
+
+I Discovering and resolving data corruption problems;
+
+0 Interfacing with Second and Third Party Partners to receive
+data for NSA analysts;
+
+o Briefing end—to—end data flow capabilities/threads to various
+customers, internal and external;
+
+0 Troubleshooting reasons for data loss and/or data surge;
+and,
+
+0 Ensuring that legal requirements are satisfied regarding the
+processing and storage of traffic.
+
+GRSOC Anai'st
+
+ 
+
+(U//FOUO) The daily jobs are diverse, as are the people in these
+positions, throughout the SID. Backgrounds of DFM's vary from
+computers, to cryptanalysis, collection, analysis, and
+telecommunications. Many skills are required to be successful —
+after all, not only does a DFM understand data, they comprehend
+all the processing that is required to ensure that the collected
+signal is successfully converted to data and intelligence. The DFM is
+involved in all aspects of data flow — assisting in the development
+aspects, current flow management and even archive retrievals. And
+of course documenting all actions for posterity as well as Mission
+Assurance!
+
+(C) However, the most important job a SID Data Flow Manager has
+is interacting with our customers. We are here to ensure current
+
+mission data coming into our processors, flows in a timely manner
+without corruption. We are here to establish new or enhanced data
+

@@ -1,0 +1,72 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+ 
+
+%\ I W (U) OUTPARKS: A New Internet for NSA
+
+      
+
+FROM: SIGINT Communications
+Unknown
+Run Date: 06/11/2003
+
+(U//FOUO) For years, NSA had a variety of means for accessing the Internet. Over time, those
+connections and pseudo—networks deteriorated and were overcome by a growing user base that
+increasingly demanded more and better Internet utility. Following the events of 11 September
+2001, the need for greater Internet access and a vital, robust unclassified infrastructure became
+clear. The exponential growth of AIRGAP throughout the Agency and the need for more
+information and a refined collaborative atmosphere across government accelerated the demand
+to consolidate NSA's unclassified systems.
+
+(U//FOUO) Using SIGINT Directorate Internet access r'eauirements as a foundation, the
+modernization of our unclassified environment — OUTPARKS — began almost as soon as Eagle
+Alliance came onboard. It was a huge task. Years of legacy systems, patched connections,
+redundant routers and servers, outdated equipment, old software and scores of other issues had
+to be removed or resolved and new, streamlined procedures and modern equipment installed.
+
+(U//FOUO) Machines currently resident on older systems will automatically connect to
+OUTPARKS. As a result, users won't have to be concerned about having a BRAZEN or NIPRNet or
+OSIS or AIRGAP machine. Rather, there will be an Internet terminal from which one will connect
+to the World Wide Web and still be able to access data or connections particular to those
+systems. Except for AIRGAP, there will be no need to logon to different services individually and
+users will have their choice of "user—friendly" email accounts.
+
+(U//FOUO) The first integration is expected by Summer 2004 when some BRAZEN users will be
+moved to the new network. With that initial transfer, OUTPARKS will begin to provide the NSA
+unclassfied user population with an expanded, more secure, state—of—the—art network.
+
+(U//FOUO) Ideas are already being discussed for using OUTPARKS to deliver the Internet with as
+little desktop clutter possible. This includes the display of Internet and classified data on a single
+desktop monitor. We also want to extend the Internet to the widest audience possible, including
+the Extended Enterprise. Field connectivity to OUTPARKS (or OUTPARKS technology) would allow
+those remote users the same state—of—the—art functionality, security and accesses available at
+NSAW.
+
+(U//FOUO) In addition to modernized connectivity, SID intends to enhance Internet user skills.
+Efforts such as REED n Winders annual volume " Untangling the Web: An Introduction To
+
+Inter :t Researc " and her monthly " The Wor“tl*-\,"u'l*-ile V s " are excellent resources for
+learning about the intricacies of navigating the Internet effecitvely and safely. In addition to
+these publications and other Internet Research assistance, we will be looking for ways to make
+the SID population more Internet savvy.
+
+      
+
+  
+
+(U//FOUO) OUTPARKS is a major step in modernizing and transforrtiint NSA. With faster, more
+advanced, managed and protected access to the Internet and a more knowledgeable workforce,
+the entire SIGINT Enterprise will be able to effectively integrate the huge information resource
+
+that is the Internet into the intelligence process.
+
+  
+
+(U//FOUO) For more information, see: SID Internet Program and SIGINT Success Stories .
+
+"(U//FOU0) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of 50121 (Di. ski comma; )."
+
+ 
+

@@ -1,0 +1,54 @@
+o SECRET Over-the Internet ——Particu|ar|y attractive to Law
+Enforcement——a cross—organizational effort to provide
+SECRET—level data to an unclassified workstation, in a non—
+SCIF (sensitive compartmented information facility) area,
+over the commercial Internet. The destination workstation
+would remain unclassified.
+
+0 Wireless Dissemination — Cell phones, pagers and
+personal digital assistants are increasingly becoming the
+tools of choice for information exchange for our Customers.
+S12 Products and Services Futures continues the initiative
+to disseminate Secret—level information to this set of
+wireless devices.
+
+0 SIGINT on DEMAND (SOD) — SOD is a web—based tool
+that allows customers access to intelligence "snippets" prior
+to the release of a full report. SOD allows customers to
+view these snippets directly from their workstations via
+direct e—mail, or through Intelink. Although still in
+development, many NSA customers access information via
+SOD everyday.
+
+o E Notebook — Printed and manual distribution of NSA
+product remains the primary dissemination vehicle for some
+customers. For example, the product pull, sort, collate and
+manual delivery at the Pentagon involves up to eight
+employees and reams of paper. Customer Response has
+developed the technology to store the serialized product
+retrieved from ANCHORY on a compact flash card. The
+compact flash card can be read and displayed (after user
+authentication) on an "E—notebook" or "Tablet PC." The E—
+notebook can remain in customer offices, and product
+delivery is accomplished via the compact flash card (vice a
+large stack of paper.)
+
+(S//SI) The challenges facing SID in responding to change of this
+magnitude will only increase. Managing customer relationships
+successfully now requires an underlying structure that builds
+confidence with the customer and within the workforce that issues
+will be worked to resolution. That structure will be described in the
+conclusion of our series.
+
+(U//FOUO) We hope you continue to read the articles in this series
+and, again, urge you to contact Customer Gateway
+Chief of Staff, S11, _, @nsa, with any comments
+or suggestions.
+
+"(U//FOU0) SIDtoday articles may not be republished or reposted outside NSANet
+without the consent of 50121 (Di. sled comma; )."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
+
