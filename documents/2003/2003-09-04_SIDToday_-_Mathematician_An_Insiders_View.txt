@@ -1,0 +1,87 @@
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+
+(U) Mathematician: An Insider's View
+FROM:
+Diagnosis and Exploitation Support (S31153)
+Run Date: 09/04/2003
+
+(U//FOUO) What comes to mind when someone tells you he is a
+ SERIES: 
+mathematician? ... Word problems? High school teacher? Graphing
+(U) A Day in the Life of...
+calculators? Pocket protectors? White boards filled with mile long
+equations? Slide rules, even? While those thoughts may be
+appropriate when characterizing some mathematicians, here in SID
+1.  Office Manager:
+there is another dimension to the picture.
+Jack-of-All-Trades
+2.  The Life of An Exec
+(U//FOUO) To really clear up that mental picture, you have to know
+3.  Working as a Policy
+that the words mathematician, cryptanalyst, and
+Analyst: One
+cryptomathematician are used synonymously in the field of
+Person's Perspective
+Diagnosis. I'm a mathematician and that is my field.
+4.  Data Flow Manager:
+The Data Fairy?
+(C//SI) Diagnosis is the study of cipher, enciphering key, or
+5.  Mathematician: An
+cryptovariables (initial key settings) in an attempt to determine the
+Insider's View
+cryptographic algorithms from which they were generated. I work
+6.  NSA Linguists
+on the Transnational (Target) Integrated Diagnosis Focus Team.
+'Panning for Gold'
+The team is made up of twelve mathematicians/cryptanalysts. Our
+7.  Plenty of Action on
+task is to perform diagnosis on indigenous cryptographic systems
+the Action Team
+and simultaneously improve the health of cryptanalytic diagnosis.
+8.  On The Collection
+(Officer's) Plate
+(C//SI) During the course of a normal day I run cryptanalytic
+9. 
+Sitting in the SOO's
+routines on UNIX desktop workstations, supercomputers, and
+Chair
+special-purpose devices using available software tools. The routines
+10. 
+You Can't Keep the
+employ standard cryptanalytic tests which search for patterns and
+NSC Waiting!.. A Day
+non-random properties in data. If I devise a test for which no
+in the Life of a
+available tools exist, then I will write software to perform the test.
+GRSOC Analyst
+If I detect a significant statistical property in data, I will
+immediately seek, expect, and receive help from team members.
+
+(U//FOUO) The team collaborates on diagnosis problems. It is
+important for me to document my test results - failures as well as
+successes - in our internal project news groups. It is also important
+for me to read the postings made by others on our news groups.
+The team discusses recent developments, data models, ideas, and
+future direction during our daily (!) team meetings.
+(C//SI) On one hand, cryptanalysis can be frustrating. It is not a
+"do-it-yourself" endeavor. Cryptanalysts realize that the
+importance of achieving a successful diagnosis far exceeds the
+associated personal achievement. On the other hand, diagnosing a
+cryptographic system can prove to be a very rewarding experience.
+Achieving success is neither instantaneous nor deterministic. A
+successful diagnosis may evolve over the course of months or
+perhaps years. The diagnostic process may be undertaken by new
+cryptanalysts and it may be revisited. Sometimes taking a short
+step away from a problem leads to the best step forward that a
+mathematician will take.
+
+"(U//FOUO) SIDtoday articles may not be republished or reposted outside NSANet
+
+without the consent of S0121 (DL sid comms)."
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET // SI / TK // REL TO USA AUS CAN GBR NZL
+DERIVED FROM: NSA/CSSM 1-52, DATED 08 JAN 2007 DECLASSIFY ON: 20320108
+
+
